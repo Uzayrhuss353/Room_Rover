@@ -14,3 +14,4 @@ As first year engineering students transitioning into university, we found ourse
 
 <br>
 ![IMG_7891](https://github.com/Uzayrhuss353/Room_Rover/assets/98598868/e53916af-a1e3-497f-9de0-f4e152c04adc)
+![Room Rover Exterior Design](https://github.com/Uzayrhuss353/Room_Rover/assets/98598868/b78bafb6-a1c0-473b-b641-c6e371969966)
